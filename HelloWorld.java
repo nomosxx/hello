@@ -1,5 +1,5 @@
-import java.util.*;
 public class HelloWorld{
-    System.out.println("Hello,World.");
-    System.out.println("Hello,nomos");
+    public static void main(String[] args){
+        System.out.println("Hello,World.");
+    }
 }
